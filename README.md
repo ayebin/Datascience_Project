@@ -13,3 +13,6 @@ Our goal was to find solutions for sustainable diet.
 ## Process
 We collected data for analyzing problem and effectiveness of solutions.
 Analyzing methods were including Indepedent t-test, Correlation analysis, One-sample t-test, etc.
+
+## Code
+Since we converted our code into html for submission and lost raw files, I have no choice but to upload only html files.
